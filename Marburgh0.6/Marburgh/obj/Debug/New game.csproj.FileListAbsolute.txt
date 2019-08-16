@@ -1,0 +1,65 @@
+C:\Users\travi\source\repos\New game\New game\bin\Debug\New game.exe.config
+C:\Users\travi\source\repos\New game\New game\bin\Debug\New game.exe
+C:\Users\travi\source\repos\New game\New game\bin\Debug\New game.pdb
+C:\Users\travi\source\repos\New game\New game\obj\Debug\New game.csprojAssemblyReference.cache
+C:\Users\travi\source\repos\New game\New game\obj\Debug\New game.csproj.CoreCompileInputs.cache
+C:\Users\travi\source\repos\New game\New game\obj\Debug\New game.exe
+C:\Users\travi\source\repos\New game\New game\obj\Debug\New game.pdb
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\New game\obj\Debug\New game.csprojAssemblyReference.cache
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\New game\obj\Debug\New game.csproj.CoreCompileInputs.cache
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\New game\bin\Debug\Marburgh.exe.config
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\New game\bin\Debug\Marburgh.exe
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\New game\bin\Debug\Marburgh.pdb
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\New game\obj\Debug\Marburgh.exe
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\New game\obj\Debug\Marburgh.pdb
+C:\Users\travi\Desktop\Marburgh-master\New game\New game\bin\Debug\Marburgh.exe.config
+C:\Users\travi\Desktop\Marburgh-master\New game\New game\bin\Debug\Marburgh.exe
+C:\Users\travi\Desktop\Marburgh-master\New game\New game\bin\Debug\Marburgh.pdb
+C:\Users\travi\Desktop\Marburgh-master\New game\New game\obj\Debug\New game.csprojAssemblyReference.cache
+C:\Users\travi\Desktop\Marburgh-master\New game\New game\obj\Debug\New game.csproj.CoreCompileInputs.cache
+C:\Users\travi\Desktop\Marburgh-master\New game\New game\obj\Debug\Marburgh.exe
+C:\Users\travi\Desktop\Marburgh-master\New game\New game\obj\Debug\Marburgh.pdb
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\bin\Debug\Marburgh.exe.config
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\bin\Debug\Marburgh.exe
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\bin\Debug\Marburgh.pdb
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\obj\Debug\New game.csprojAssemblyReference.cache
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\obj\Debug\New game.csproj.CoreCompileInputs.cache
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\obj\Debug\Marburgh.exe
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\obj\Debug\Marburgh.pdb
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\bin\Debug\Marburgh.exe.manifest
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\bin\Debug\Marburgh.application
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\obj\Debug\Marburgh.exe.manifest
+\\FS-1929\user$\tmarcott\Desktop\Marburgh-master\New game\obj\Debug\Marburgh.application
+U:\Marburgh-master\New game\bin\Debug\Marburgh.exe.config
+U:\Marburgh-master\New game\bin\Debug\Marburgh.exe.manifest
+U:\Marburgh-master\New game\bin\Debug\Marburgh.application
+U:\Marburgh-master\New game\bin\Debug\Marburgh.exe
+U:\Marburgh-master\New game\bin\Debug\Marburgh.pdb
+U:\Marburgh-master\New game\obj\Debug\New game.csprojAssemblyReference.cache
+U:\Marburgh-master\New game\obj\Debug\New game.csproj.CoreCompileInputs.cache
+U:\Marburgh-master\New game\obj\Debug\Marburgh.exe.manifest
+U:\Marburgh-master\New game\obj\Debug\Marburgh.application
+U:\Marburgh-master\New game\obj\Debug\Marburgh.exe
+U:\Marburgh-master\New game\obj\Debug\Marburgh.pdb
+C:\Users\travi\Desktop\Marburgh-master\New game\bin\Debug\Marburgh.exe.config
+C:\Users\travi\Desktop\Marburgh-master\New game\bin\Debug\Marburgh.exe.manifest
+C:\Users\travi\Desktop\Marburgh-master\New game\bin\Debug\Marburgh.application
+C:\Users\travi\Desktop\Marburgh-master\New game\bin\Debug\Marburgh.exe
+C:\Users\travi\Desktop\Marburgh-master\New game\bin\Debug\Marburgh.pdb
+C:\Users\travi\Desktop\Marburgh-master\New game\obj\Debug\New game.csprojAssemblyReference.cache
+C:\Users\travi\Desktop\Marburgh-master\New game\obj\Debug\New game.csproj.CoreCompileInputs.cache
+C:\Users\travi\Desktop\Marburgh-master\New game\obj\Debug\Marburgh.exe.manifest
+C:\Users\travi\Desktop\Marburgh-master\New game\obj\Debug\Marburgh.application
+C:\Users\travi\Desktop\Marburgh-master\New game\obj\Debug\Marburgh.exe
+C:\Users\travi\Desktop\Marburgh-master\New game\obj\Debug\Marburgh.pdb
+C:\Users\travi\Desktop\Marburgh 2.0\Marburgh-master\New game\obj\Debug\New game.csprojAssemblyReference.cache
+C:\Users\travi\Desktop\Marburgh 2.0\Marburgh-master\New game\obj\Debug\New game.csproj.CoreCompileInputs.cache
+C:\Users\travi\Desktop\Marburgh 2.0\Marburgh-master\New game\obj\Debug\Marburgh.exe
+C:\Users\travi\Desktop\Marburgh 2.0\Marburgh-master\New game\obj\Debug\Marburgh.pdb
+C:\Users\travi\Desktop\Marburgh 2.0\Marburgh-master\New game\bin\Debug\Marburgh.exe.config
+C:\Users\travi\Desktop\Marburgh 2.0\Marburgh-master\New game\bin\Debug\Marburgh.exe.manifest
+C:\Users\travi\Desktop\Marburgh 2.0\Marburgh-master\New game\bin\Debug\Marburgh.application
+C:\Users\travi\Desktop\Marburgh 2.0\Marburgh-master\New game\bin\Debug\Marburgh.exe
+C:\Users\travi\Desktop\Marburgh 2.0\Marburgh-master\New game\bin\Debug\Marburgh.pdb
+C:\Users\travi\Desktop\Marburgh 2.0\Marburgh-master\New game\obj\Debug\Marburgh.exe.manifest
+C:\Users\travi\Desktop\Marburgh 2.0\Marburgh-master\New game\obj\Debug\Marburgh.application
