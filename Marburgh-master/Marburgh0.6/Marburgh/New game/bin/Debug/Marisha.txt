@@ -1,0 +1,1 @@
+Marisha,Warrior,1,Dagger,Cloth Armor,375,0,8,0,0,1,10,24,24,2,5,0,0,3,45,1,False
